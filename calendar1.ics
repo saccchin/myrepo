@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0630
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=sachin.s@mapmyindia.com;RSVP=TRUE:mailto:sachin.s@mapmyindia.co
+	m
+CLASS:PUBLIC
+CREATED:20171221T065950Z
+DESCRIPTION:\n\n_____________________________________________\nFrom: sumeet
+	m@mapmyindia.com [mailto:sumeetm@mapmyindia.com] \nSent: 21 December 2017 
+	PM 12:28\nTo: sachin.s@mapmyindia.com\nCc: sumeetm@mapmyindia.com\nSubject
+	: Test\n\n\ntest\n\nWebsite: www.mapmyindia.com\nDigital Address: eloc.me/
+	mmi000\nCheck & Share your eLoc <www.eloc.me> \nMobile Apps: NaviMaps <htt
+	p://www.mapmyindia.com/navimaps/>  | Maps <https://maps.mapmyindia.com> \n
+	 <https://www.facebook.com/MapmyIndia>  <https://twitter.com/mapmyindia>  
+	<https://www.linkedin.com/company/mapmyindia> \n
+DTEND;TZID="India Standard Time":20171221T130000
+DTSTAMP:20171221T065950Z
+DTSTART;TZID="India Standard Time":20171221T123000
+LAST-MODIFIED:20171221T065950Z
+LOCATION:My WorkStation
+ORGANIZER;CN=sumeetm@mapmyindia.com:mailto:sumeetm@mapmyindia.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-in:Test
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E01F7665577AD301000000000000000
+	010000000AECC33DD607D5A41B428E2671269249B
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-in"></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="e
+	n-in"></SPAN><SPAN LANG="en-us"><FONT SIZE=2 FACE="Tahoma">_______________
+	______________________________<BR>\n</FONT></SPAN><SPAN LANG="en-in"><B></
+	B></SPAN><SPAN LANG="en-in"><B></B></SPAN><SPAN LANG="en-in"><B></B></SPAN
+	><B><SPAN LANG="en-us"><FONT SIZE=2 FACE="Tahoma">From:</FONT></SPAN></B><
+	SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SP
+	AN><SPAN LANG="en-us"><FONT SIZE=2 FACE="Tahoma"></FONT></SPAN><SPAN LANG=
+	"en-in"> </SPAN><A HREF="mailto:sumeetm@mapmyindia.com"><SPAN LANG="en-in"
+	></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"><U></U></SPAN><U><SPA
+	N LANG="en-us"><FONT COLOR="#0000FF" SIZE=2 FACE="Tahoma">sumeetm@mapmyind
+	ia.com</FONT></SPAN></U><SPAN LANG="en-in"></SPAN></A><SPAN LANG="en-in"><
+	/SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-u
+	s"><FONT SIZE=2 FACE="Tahoma"></FONT></SPAN><SPAN LANG="en-in"> </SPAN><A 
+	HREF="mailto:[mailto:sumeetm@mapmyindia.com]"><SPAN LANG="en-in"></SPAN><S
+	PAN LANG="en-in"></SPAN><SPAN LANG="en-in"><U></U></SPAN><U><SPAN LANG="en
+	-us"><FONT COLOR="#0000FF" SIZE=2 FACE="Tahoma">[mailto:sumeetm@mapmyindia
+	.com]</FONT></SPAN></U><SPAN LANG="en-in"></SPAN></A><SPAN LANG="en-in"></
+	SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-us
+	"><FONT SIZE=2 FACE="Tahoma"><BR>\n</FONT></SPAN><SPAN LANG="en-in"><B></B
+	></SPAN><SPAN LANG="en-in"><B></B></SPAN><SPAN LANG="en-in"><B></B></SPAN>
+	<B><SPAN LANG="en-us"><FONT SIZE=2 FACE="Tahoma">Sent:</FONT></SPAN></B><S
+	PAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPA
+	N><SPAN LANG="en-us"><FONT SIZE=2 FACE="Tahoma"> 21 December 2017 PM 12:28
+	<BR>\n</FONT></SPAN><SPAN LANG="en-in"><B></B></SPAN><SPAN LANG="en-in"><B
+	></B></SPAN><SPAN LANG="en-in"><B></B></SPAN><B><SPAN LANG="en-us"><FONT S
+	IZE=2 FACE="Tahoma">To:</FONT></SPAN></B><SPAN LANG="en-in"></SPAN><SPAN L
+	ANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-us"><FONT SIZE
+	=2 FACE="Tahoma"></FONT></SPAN><SPAN LANG="en-in"> </SPAN><A HREF="mailto:
+	sachin.s@mapmyindia.com"><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SP
+	AN><SPAN LANG="en-in"><U></U></SPAN><U><SPAN LANG="en-us"><FONT COLOR="#00
+	00FF" SIZE=2 FACE="Tahoma">sachin.s@mapmyindia.com</FONT></SPAN></U><SPAN 
+	LANG="en-in"></SPAN></A><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPA
+	N><SPAN LANG="en-in"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en
+	-in"><B></B></SPAN><SPAN LANG="en-in"><B></B></SPAN><SPAN LANG="en-in"><B>
+	</B></SPAN><B><SPAN LANG="en-us"><FONT SIZE=2 FACE="Tahoma">Cc:</FONT></SP
+	AN></B><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-
+	in"></SPAN><SPAN LANG="en-us"><FONT SIZE=2 FACE="Tahoma"></FONT></SPAN><SP
+	AN LANG="en-in"> </SPAN><A HREF="mailto:sumeetm@mapmyindia.com"><SPAN LANG
+	="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"><U></U></SPAN
+	><U><SPAN LANG="en-us"><FONT COLOR="#0000FF" SIZE=2 FACE="Tahoma">sumeetm@
+	mapmyindia.com</FONT></SPAN></U><SPAN LANG="en-in"></SPAN></A><SPAN LANG="
+	en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LA
+	NG="en-us"><BR>\n</SPAN><SPAN LANG="en-in"><B></B></SPAN><SPAN LANG="en-in
+	"><B></B></SPAN><SPAN LANG="en-in"><B></B></SPAN><B><SPAN LANG="en-us"><FO
+	NT SIZE=2 FACE="Tahoma">Subject:</FONT></SPAN></B><SPAN LANG="en-in"></SPA
+	N><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-us"><
+	FONT SIZE=2 FACE="Tahoma"> Test</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG
+	="en-in"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-in"><FONT FACE="Calibri"
+	>test</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-in"></SPAN><SPAN LANG
+	="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN 
+	LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="en-in"><FONT COLOR="#263238" FACE="Times New Roman">Website:</FONT></SP
+	AN><SPAN LANG="en-in"> </SPAN><A HREF="file://www.mapmyindia.com"><SPAN LA
+	NG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"><U></U></SP
+	AN><U><SPAN LANG="en-in"><FONT COLOR="#0000FF" FACE="Times New Roman">www.
+	mapmyindia.com</FONT></SPAN></U><SPAN LANG="en-in"></SPAN></A><SPAN LANG="
+	en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LA
+	NG="en-in"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-in"><FONT COLOR="#2632
+	38" FACE="Times New Roman">Digital Address:</FONT></SPAN><SPAN LANG="en-in
+	"> </SPAN><A HREF="file://eloc.me/mmi000"><SPAN LANG="en-in"></SPAN><SPAN 
+	LANG="en-in"></SPAN><SPAN LANG="en-in"><U></U></SPAN><U><SPAN LANG="en-in"
+	><FONT COLOR="#0000FF" FACE="Times New Roman">eloc.me/mmi000</FONT></SPAN>
+	</U><SPAN LANG="en-in"></SPAN></A><SPAN LANG="en-in"></SPAN><SPAN LANG="en
+	-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="en-in"><FONT COLOR="#263238" FACE="Times New Roman">C
+	heck &amp\; Share your</FONT></SPAN><SPAN LANG="en-in"> </SPAN><A HREF="fi
+	le://www.eloc.me"><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPA
+	N LANG="en-in"><U></U></SPAN><U><SPAN LANG="en-in"><FONT COLOR="#0000FF" F
+	ACE="Times New Roman">eLoc</FONT></SPAN></U><SPAN LANG="en-in"></SPAN></A>
+	<SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></S
+	PAN><SPAN LANG="en-in"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-in"><FONT 
+	COLOR="#263238" FACE="Times New Roman">Mobile Apps:</FONT></SPAN><SPAN LAN
+	G="en-in"> </SPAN><A HREF="http://www.mapmyindia.com/navimaps/"><SPAN LANG
+	="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"><U></U></SPAN
+	><U><SPAN LANG="en-in"><FONT COLOR="#0000FF" FACE="Times New Roman">NaviMa
+	ps</FONT></SPAN></U><SPAN LANG="en-in"></SPAN></A><SPAN LANG="en-in"></SPA
+	N><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"><
+	FONT COLOR="#263238" FACE="Times New Roman"> |</FONT></SPAN><SPAN LANG="en
+	-in"> </SPAN><A HREF="https://maps.mapmyindia.com"><SPAN LANG="en-in"></SP
+	AN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"><U></U></SPAN><U><SPAN LAN
+	G="en-in"><FONT COLOR="#0000FF" FACE="Times New Roman">Maps</FONT></SPAN><
+	/U><SPAN LANG="en-in"></SPAN></A><SPAN LANG="en-in"></SPAN><SPAN LANG="en-
+	in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="en-in"></SPAN><A HREF="https://www.facebook.com/MapmyI
+	ndia"><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-i
+	n"></SPAN></A><SPAN LANG="en-in"></SPAN><A HREF="https://twitter.com/mapmy
+	india"><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-
+	in"></SPAN></A><SPAN LANG="en-in"></SPAN><A HREF="https://www.linkedin.com
+	/company/mapmyindia"><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN><
+	SPAN LANG="en-in"></SPAN></A><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in">
+	</SPAN><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"></SPAN></P>\n\n</BODY>
+	\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
